@@ -11,6 +11,7 @@ namespace My_code_on_C_
         static void Main(string[] args)
         {
             Console.WriteLine("Kurwa Mechanikus");
+            Console.WriteLine("glushakmonolith@gmail.com");
         }
     }
 }
